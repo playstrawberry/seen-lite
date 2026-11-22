@@ -1,0 +1,16 @@
+description=Son görülme: /seen bir oyuncunun şu an online olup olmadığını ya da en son ne zaman görüldüğünü söyler.
+permission_use=/seen komutunu kullan.
+command_seen=Bir oyuncunun en son ne zaman online olduğunu göster.
+no_permission=Bu komut için permission sahibi değilsin.
+bad_name=Bu bir oyuncu adı değil.
+online={0} şu an online; oyuna gireli {1} oldu.
+offline={0} en son {1} önce görüldü.
+never={0} bu sunucuda hiç oynamadı.
+moment=bir dakikadan az
+minute={0} dakika
+minutes={0} dakika
+hour={0} saat
+hours={0} saat
+day={0} gün
+days={0} gün
+pair={0} {1}

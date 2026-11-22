@@ -1,0 +1,16 @@
+description=Última conexión: /seen dice si un jugador está conectado o cuándo se le vio por última vez.
+permission_use=Usar /seen.
+command_seen=Mostrar cuándo estuvo conectado un jugador por última vez.
+no_permission=No tienes permiso para usar ese comando.
+bad_name=Eso no es un nombre de jugador.
+online={0} está conectado ahora, desde hace {1}.
+offline={0} fue visto por última vez hace {1}.
+never={0} nunca ha jugado en este servidor.
+moment=menos de un minuto
+minute={0} minuto
+minutes={0} minutos
+hour={0} hora
+hours={0} horas
+day={0} día
+days={0} días
+pair={0} y {1}

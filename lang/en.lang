@@ -1,0 +1,16 @@
+description=Last seen: /seen tells whether a player is online now or when he was last seen.
+permission_use=Use /seen.
+command_seen=Show when a player was last online.
+no_permission=You do not have permission to use that command.
+bad_name=That is not a player name.
+online={0} is online now, for {1}.
+offline={0} was last seen {1} ago.
+never={0} has never played on this server.
+moment=less than a minute
+minute={0} minute
+minutes={0} minutes
+hour={0} hour
+hours={0} hours
+day={0} day
+days={0} days
+pair={0} and {1}
